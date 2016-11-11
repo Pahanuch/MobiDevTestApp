@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MobiDevTestApp</string>
+    <string name="search_title">Search</string>
+    <string name="search_hint">Enter Author or Book Name</string>
+    <string name="action_settings">Image</string>
+
+</resources>
